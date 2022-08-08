@@ -6,7 +6,7 @@ import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.*;
 
-public class hoverPricing {
+public class HoverPricing {
     @Test
     void hover() {
         open("http://github.com");
